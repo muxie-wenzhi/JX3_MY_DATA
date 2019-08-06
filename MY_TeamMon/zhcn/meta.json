@@ -1,5 +1,5 @@
 {
-  "name": "【问之】青梅煮酒首甲团招收犀利PVE",
+  "name": "此端口不再更新请加载订阅：wenzhimuxie@aliyun",
   "author": "慕邪",
   "version": "20190806",
   "data_url": "./data.jx3dat",
